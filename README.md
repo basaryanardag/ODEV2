@@ -8,15 +8,17 @@
 
 #KULLANICI BULUNAMAZ İSE ÇIKTISI:
 
-![Screenshot 2024-03-11 075525](https://github.com/basaryanardag/ODEV/assets/162024917/40605e77-0ff8-4bc0-a57a-fa6badb229e8)
+![Screenshot 2024-03-11 075525](https://github.com/basaryanardag/ODEV2/assets/162024917/eb534a0d-0a2c-4aa5-b5d0-67fc8ce09e5e)
+
 
 
 #GANO 0'DAN DÜŞÜK  VEYA 4'TEN BÜYÜK İSE ÇIKTISI:
 
-![Screenshot 2024-03-11 075349](https://github.com/basaryanardag/ODEV/assets/162024917/2c73f62a-98af-4ca2-a578-c42038ffe10c)
+
+![Screenshot 2024-03-11 075349](https://github.com/basaryanardag/ODEV2/assets/162024917/07a913ab-e07b-4cfe-86e7-57da8100c41d)
 
 
 
 #UML:
 
-![Screenshot 2024-03-11 095827](https://github.com/basaryanardag/ODEV/assets/162024917/d4724a6d-a9f9-4d8e-a24e-e9ae20e2496b)
+![Screenshot 2024-03-11 095827](https://github.com/basaryanardag/ODEV2/assets/162024917/25c31fe0-e33b-45d9-8017-0b105d1db9c6)
