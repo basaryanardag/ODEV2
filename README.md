@@ -2,7 +2,8 @@
 
 #EKRAN ÇIKTISI:
 
-![Screenshot 2024-03-11 085117](https://github.com/basaryanardag/ODEV/assets/162024917/b9ffa14c-1d6a-48ce-9f9c-6caf02660161)
+![ewqe](https://github.com/basaryanardag/ODEV2/assets/162024917/fa77deb7-bc61-462b-bf09-030e9c425181)
+
 
 
 #KULLANICI BULUNAMAZ İSE ÇIKTISI:
